@@ -1,0 +1,7 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄÃøüıÿÿÿÿ8À½½µí-
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡ğê'8íŠÀµí-
+Isquid:S1612",Replace this lambda with a method reference.(¢¤­z8àÁÊµí-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢¤­z8àÁÊµí-
